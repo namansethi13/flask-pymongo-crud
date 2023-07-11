@@ -1,7 +1,10 @@
 <h1>Simple RESTful CRUD using Flask and pymongo</h1>
 <body>
   <h1>User Management API Documentation</h1>
-
+   <h2>How to start</h2>
+  <p>Just run the command python app.py in the root directory</p>
+   <h2>Or create a docker image using</h2>
+  <p>docker build -t image .</p>
   <h2>Endpoints</h2>
 
   <div class="endpoint">
